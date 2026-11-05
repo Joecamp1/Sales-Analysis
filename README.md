@@ -15,6 +15,6 @@ This is a personal project that looks into the performance of a business and it'
 ## 🔗 Preview
 https://github.com/Joecamp1/Sales-Analysis/blob/main/Screenshot%202026-11-05%20234955.png
 
-> Click the links above to see the images of the final dashboards.
+> Click the links above to see the images of the final dashboard.
 # 📊Sales-Analysis
 This repo a quick analysis of sales performance of a business.
