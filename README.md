@@ -10,7 +10,7 @@ This is a personal project that looks into the performance of a business and it'
 ## 💡 What I Learnt
 - Data sourcing and transformation
 - How to summarize KPIs using PowerBi DAX
-- How to visualize insights using Powebi
+- How to visualize insights using PowerBi
 
 ## 🔗 Preview
 https://github.com/Joecamp1/Sales-Analysis/blob/main/Screenshot%202026-11-05%20234955.png
