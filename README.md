@@ -36,7 +36,7 @@ This is a personal project that uses an interactive PowerBi dashboard analysing 
 5. A few containers dominate. Small Box alone is about 35% of revenue, and the top three containers make up roughly three-quarters.
 6. Order priority has little effect. Revenue is spread fairly evenly across priority levels.
 
-## 📊 Recommendations
+## 📝 Recommendations
 - Run a mid-year promotion to offset the June slump.
 - Plan inventory and staffing around the December/January peak.
 - Review low-performing containers (Wrap Bag, Small Pack) for repricing or removal.
