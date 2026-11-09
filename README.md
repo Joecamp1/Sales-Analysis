@@ -48,3 +48,6 @@ This is a personal project that uses an interactive PowerBi dashboard analysing 
 > Click the links above to see the images of the final dashboard.
 # 📊Sales-Analysis
 This repo a quick analysis of sales performance of a business.
+
+## Author
+Oluwakorede Campbell [LinkedIn](https://www.linkedin.com/in/oluwakorede-campbell/) | [Portfolio](https://github.com/Joecamp1/Oluwakorede-Portfolio)
