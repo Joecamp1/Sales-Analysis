@@ -1,4 +1,5 @@
 # 📊Sales-Analysis
+This repo a quick analysis of sales performance of a business.
 
 ## 🛠 Tools used 
 - Google Sheets
@@ -46,8 +47,7 @@ This is a personal project that uses an interactive PowerBi dashboard analysing 
 [Sales Dashboard](https://github.com/Joecamp1/Sales-Analysis/blob/main/Screenshot%202026-11-05%20234955.png)
 
 > Click the links above to see the images of the final dashboard.
-# 📊Sales-Analysis
-This repo a quick analysis of sales performance of a business.
+
 
 ## Author
 Oluwakorede Campbell [LinkedIn](https://www.linkedin.com/in/oluwakorede-campbell/) | [Portfolio](https://github.com/Joecamp1/Oluwakorede-Portfolio)
