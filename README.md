@@ -13,7 +13,7 @@ This is a personal project that looks into the performance of a business and it'
 - How to visualize insights using PowerBi
 
 ## 🔗 Preview
-https://github.com/Joecamp1/Sales-Analysis/blob/main/Screenshot%202026-11-05%20234955.png
+[Sales Dashboard](https://github.com/Joecamp1/Sales-Analysis/blob/main/Screenshot%202026-11-05%20234955.png)
 
 > Click the links above to see the images of the final dashboard.
 # 📊Sales-Analysis
