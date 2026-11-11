@@ -50,4 +50,6 @@ This is a personal project that uses an interactive PowerBi dashboard analysing 
 
 
 ## Author
-Oluwakorede Campbell [LinkedIn](https://www.linkedin.com/in/oluwakorede-campbell/) | [Portfolio](https://github.com/Joecamp1/Oluwakorede-Portfolio)
+Oluwakorede Campbell 
+
+[LinkedIn](https://www.linkedin.com/in/oluwakorede-campbell/) | [Portfolio](https://github.com/Joecamp1/Oluwakorede-Portfolio)
