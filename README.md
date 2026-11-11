@@ -44,7 +44,7 @@ This is a personal project that uses an interactive PowerBi dashboard analysing 
 - Test whether Express Air can be grown or whether it should stay a niche option.
 
 ## 🔗 Preview
-[Sales Dashboard](https://github.com/Joecamp1/Sales-Analysis/blob/main/Screenshot%202026-11-05%20234955.png)
+[Sales Dashboard](https://github.com/Joecamp1/Sales-Analysis/blob/main/Sales%20Dashboard.png)
 
 > Click the links above to see the images of the final dashboard.
 
